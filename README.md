@@ -6,7 +6,7 @@
 
 #### The sections get an active class when they get close to the top of the viewport to distinguish the section in view
 
-#### using only js when you click on an <li> the page scrolls towards that section
+#### using only js when you click on a "li" the page scrolls towards that section
 
 #### a scroll to top button appears when you scroll down the page and disappears when you scroll up again
 
