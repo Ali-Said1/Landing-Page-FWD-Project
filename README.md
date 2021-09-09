@@ -16,7 +16,7 @@ Also the navbar `li` related to this section gains an active class.
 
 ---
 
-- ### using only js when you click on a "li" the page scrolls towards that section
+- ### using only js when you click on a `li` the page scrolls towards that section
 
 It uses the `ScrollTo` JavaScript method.
 
