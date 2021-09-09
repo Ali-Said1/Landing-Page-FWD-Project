@@ -82,8 +82,15 @@ section {
     color: #000;
     cursor: pointer;
 }
+@media (max-width: 420px) {
+    .navbar__menu .menu__link {
+        padding: 0.6em;
+        font-size: 0.7em;
+    }
+}
 
-.navbar__menu .menu__link:hover{
+.navbar__menu .menu__link:hover,
+.navbar__menu .menu__link.active{
     background: #333;
     color: #fff;
     transition: ease 0.3s all;
